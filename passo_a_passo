@@ -1,0 +1,7 @@
+Passo a Passo
+
+Criação do package.json
+npm init
+
+Importação das dependências
+npm install express body-parser pg-promise jest axios --save
