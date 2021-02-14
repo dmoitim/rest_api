@@ -5,3 +5,5 @@ npm init
 
 Importação das dependências
 npm install express body-parser pg-promise jest axios --save
+
+Criação da estrutura básica das pastas do projeto
