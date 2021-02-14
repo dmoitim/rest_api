@@ -7,3 +7,14 @@ Importação das dependências
 npm install express body-parser pg-promise jest axios --save
 
 Criação da estrutura básica das pastas do projeto
+
+Criação do servidor
+
+Criação das rotas
+
+Inclusão de registro no banco de dados
+insert into blog.post (title, content) values ('REST API: Métodos', '...');
+insert into blog.post (title, content) values ('REST API: Introdução', '...');
+insert into blog.post (title, content) values ('REST API: Documentação', '...');
+
+Criação do arquivo de configuração do banco de dados
