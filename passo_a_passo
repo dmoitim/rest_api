@@ -18,3 +18,7 @@ insert into blog.post (title, content) values ('REST API: Introdução', '...');
 insert into blog.post (title, content) values ('REST API: Documentação', '...');
 
 Criação do arquivo de configuração do banco de dados
+
+Implementação do get de posts
+
+Implementação dos testes
